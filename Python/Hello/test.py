@@ -1,0 +1,1 @@
+print(float32(2))
