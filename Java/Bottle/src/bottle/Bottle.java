@@ -49,7 +49,7 @@ public class Bottle {
         bottle[1] = new Bottle(500, 500);
         bottle[2] = new Bottle(750, 1000);
 
-        bottle[1].transferWater(300, bottle[0]);
+        bottle[1].transferWater(50, bottle[0]);
         System.out.println(bottle[0].waterAmount);
 
         bottle[0].fill(500);
