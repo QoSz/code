@@ -34,7 +34,7 @@ int main() {
         }
         
     }
-    
+    printf("Thank you for playing!\n");
 
     return 0;
 }
