@@ -55,7 +55,7 @@
       <recent name="$PROJECT_DIR$/Importing" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.RPS">
+  <component name="RunManager" selected="Python.merge">
     <configuration name="RPS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -78,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="oop2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="merge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,12 +86,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MergeSortAlgorithm" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/oop2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MergeSortAlgorithm/merge.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.merge" />
         <item itemvalue="Python.RPS" />
         <item itemvalue="Python.oop5" />
         <item itemvalue="Python.oop4" />
         <item itemvalue="Python.oop3" />
-        <item itemvalue="Python.oop2" />
       </list>
     </recent_temporary>
   </component>
@@ -212,6 +212,7 @@
       <workItem from="1630397278280" duration="4612000" />
       <workItem from="1631631330540" duration="134000" />
       <workItem from="1631631475256" duration="2709000" />
+      <workItem from="1631878913981" duration="2759000" />
     </task>
     <servers />
   </component>
@@ -255,6 +256,7 @@
     <SUITE FILE_PATH="coverage/Python$functions.coverage" NAME="functions Coverage Results" MODIFIED="1628088149238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Functions2" />
     <SUITE FILE_PATH="coverage/Python$numbers.coverage" NAME="numbers Coverage Results" MODIFIED="1628069571036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ForLoop" />
     <SUITE FILE_PATH="coverage/Python$bitwise.coverage" NAME="bitwise Coverage Results" MODIFIED="1630001619371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bitwise" />
+    <SUITE FILE_PATH="coverage/Python$merge.coverage" NAME="merge Coverage Results" MODIFIED="1631880721277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MergeSortAlgorithm" />
     <SUITE FILE_PATH="coverage/Python$Threads.coverage" NAME="Threads Coverage Results" MODIFIED="1629202944837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classes" />
     <SUITE FILE_PATH="coverage/Python$unpack.coverage" NAME="unpack Coverage Results" MODIFIED="1629281910657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UnpackingItems" />
     <SUITE FILE_PATH="coverage/Python$usinginit.coverage" NAME="usinginit Coverage Results" MODIFIED="1629192284777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classes" />
