@@ -2,6 +2,7 @@
 
 int main()
 {
+    // Break keyword is used to break out of an infinite loop once a certain condition is met.
 
     int passcode = 1021;
     int i = 1;
