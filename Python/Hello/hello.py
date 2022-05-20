@@ -1,5 +1,10 @@
-name = "Yash Shah"
-print("# HACK: ", name)
-print("My name is Yash Shah")
-print(1 + 3)
-print("Hello world!")
+class Hello():
+    def __init__(self, name):
+        self.name = name
+
+    def say(self):
+        return f"Hello, {self.name}"
+
+
+yazh = Hello("Yazh")
+print(yazh.say())
