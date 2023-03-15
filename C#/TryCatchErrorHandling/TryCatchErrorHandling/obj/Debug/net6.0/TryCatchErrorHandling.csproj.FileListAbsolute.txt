@@ -1,0 +1,15 @@
+C:\Users\yashs\Desktop\code\C#\TryCatchErrorHandling\TryCatchErrorHandling\bin\Debug\net6.0\TryCatchErrorHandling.exe
+C:\Users\yashs\Desktop\code\C#\TryCatchErrorHandling\TryCatchErrorHandling\bin\Debug\net6.0\TryCatchErrorHandling.deps.json
+C:\Users\yashs\Desktop\code\C#\TryCatchErrorHandling\TryCatchErrorHandling\bin\Debug\net6.0\TryCatchErrorHandling.runtimeconfig.json
+C:\Users\yashs\Desktop\code\C#\TryCatchErrorHandling\TryCatchErrorHandling\bin\Debug\net6.0\TryCatchErrorHandling.dll
+C:\Users\yashs\Desktop\code\C#\TryCatchErrorHandling\TryCatchErrorHandling\bin\Debug\net6.0\TryCatchErrorHandling.pdb
+C:\Users\yashs\Desktop\code\C#\TryCatchErrorHandling\TryCatchErrorHandling\obj\Debug\net6.0\TryCatchErrorHandling.csproj.AssemblyReference.cache
+C:\Users\yashs\Desktop\code\C#\TryCatchErrorHandling\TryCatchErrorHandling\obj\Debug\net6.0\TryCatchErrorHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yashs\Desktop\code\C#\TryCatchErrorHandling\TryCatchErrorHandling\obj\Debug\net6.0\TryCatchErrorHandling.AssemblyInfoInputs.cache
+C:\Users\yashs\Desktop\code\C#\TryCatchErrorHandling\TryCatchErrorHandling\obj\Debug\net6.0\TryCatchErrorHandling.AssemblyInfo.cs
+C:\Users\yashs\Desktop\code\C#\TryCatchErrorHandling\TryCatchErrorHandling\obj\Debug\net6.0\TryCatchErrorHandling.csproj.CoreCompileInputs.cache
+C:\Users\yashs\Desktop\code\C#\TryCatchErrorHandling\TryCatchErrorHandling\obj\Debug\net6.0\TryCatchErrorHandling.dll
+C:\Users\yashs\Desktop\code\C#\TryCatchErrorHandling\TryCatchErrorHandling\obj\Debug\net6.0\refint\TryCatchErrorHandling.dll
+C:\Users\yashs\Desktop\code\C#\TryCatchErrorHandling\TryCatchErrorHandling\obj\Debug\net6.0\TryCatchErrorHandling.pdb
+C:\Users\yashs\Desktop\code\C#\TryCatchErrorHandling\TryCatchErrorHandling\obj\Debug\net6.0\TryCatchErrorHandling.genruntimeconfig.cache
+C:\Users\yashs\Desktop\code\C#\TryCatchErrorHandling\TryCatchErrorHandling\obj\Debug\net6.0\ref\TryCatchErrorHandling.dll

@@ -1,0 +1,15 @@
+C:\Users\yashs\Desktop\code\C#\IfStatements\IfStatements\bin\Debug\net6.0\IfStatements.exe
+C:\Users\yashs\Desktop\code\C#\IfStatements\IfStatements\bin\Debug\net6.0\IfStatements.deps.json
+C:\Users\yashs\Desktop\code\C#\IfStatements\IfStatements\bin\Debug\net6.0\IfStatements.runtimeconfig.json
+C:\Users\yashs\Desktop\code\C#\IfStatements\IfStatements\bin\Debug\net6.0\IfStatements.dll
+C:\Users\yashs\Desktop\code\C#\IfStatements\IfStatements\bin\Debug\net6.0\IfStatements.pdb
+C:\Users\yashs\Desktop\code\C#\IfStatements\IfStatements\obj\Debug\net6.0\IfStatements.csproj.AssemblyReference.cache
+C:\Users\yashs\Desktop\code\C#\IfStatements\IfStatements\obj\Debug\net6.0\IfStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yashs\Desktop\code\C#\IfStatements\IfStatements\obj\Debug\net6.0\IfStatements.AssemblyInfoInputs.cache
+C:\Users\yashs\Desktop\code\C#\IfStatements\IfStatements\obj\Debug\net6.0\IfStatements.AssemblyInfo.cs
+C:\Users\yashs\Desktop\code\C#\IfStatements\IfStatements\obj\Debug\net6.0\IfStatements.csproj.CoreCompileInputs.cache
+C:\Users\yashs\Desktop\code\C#\IfStatements\IfStatements\obj\Debug\net6.0\IfStatements.dll
+C:\Users\yashs\Desktop\code\C#\IfStatements\IfStatements\obj\Debug\net6.0\refint\IfStatements.dll
+C:\Users\yashs\Desktop\code\C#\IfStatements\IfStatements\obj\Debug\net6.0\IfStatements.pdb
+C:\Users\yashs\Desktop\code\C#\IfStatements\IfStatements\obj\Debug\net6.0\IfStatements.genruntimeconfig.cache
+C:\Users\yashs\Desktop\code\C#\IfStatements\IfStatements\obj\Debug\net6.0\ref\IfStatements.dll

@@ -1,20 +1,31 @@
-import numpy as np
-import time
+import subprocess
+import re
 
-n = 10
+# Get the list of wifi networks
+wifi_list = subprocess.check_output(['netsh', 'wlan', 'show', 'networks']).decode('utf-8').split('\n')
 
-start_time = time.time()
-arr = np.sum(np.arange(n + 1))
-print(arr)
-stop_time = time.time()
-print((stop_time - start_time) * 1000)
+# Extract the SSID of the available networks
+ssids = [i.split(':')[-1].strip() for i in wifi_list if 'SSID' in i]
 
-start_time2 = time.time()
-print(int((pow(n, 2) + n) / 2))
-stop_time2 = time.time()
-print((stop_time2 - start_time2) * 1000)
+# Prompt user to select a network
+print('Available networks:')
+for i, ssid in enumerate(ssids):
+    print(f'{i} - {ssid}')
 
-start_time3 = time.time()
-print(sum(range(n + 1)))
-stop_time3 = time.time()
-print((stop_time3 - start_time3) * 1000)
+# Get the network selected by user
+selected_ssid = ssids[int(input('\nSelect a network: '))]
+
+# Get the security settings of the selected network
+security_settings = subprocess.check_output(['netsh', 'wlan', 'show', 'profile', selected_ssid, 'key=clear']).decode('utf-8').split('\n')
+
+# Extract the security type
+security_type_list = [i.split(':')[-1].strip() for i in security_settings if 'Security' in i]
+security_type = security_type_list[0] if security_type_list else None
+
+# Extract the password
+password_list = [i.split(':')[-1].strip() for i in security_settings if 'Key Content' in i]
+password = password_list[0] if password_list else None
+
+print(f'\nSelected SSID: {selected_ssid}')
+print(f'Security Type: {security_type}')
+print(f'Password: {password}')

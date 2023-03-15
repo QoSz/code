@@ -2,6 +2,7 @@ public class LongestSubString {
 
     public int lengthOfLongestSubstring(String s) {
         int number = 0;
+        char[] characters;
 
         if (s == "") {
             number = 0;

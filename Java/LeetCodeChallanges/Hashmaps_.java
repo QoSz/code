@@ -11,6 +11,8 @@ public class Hashmaps_ {
 
         System.out.println(details);
 
+        System.out.println(details.get("Yash Shah"));
+
         System.out.println(details.isEmpty());
 
         details.replace("Yash Shah", 19, 17);
