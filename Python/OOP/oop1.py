@@ -27,6 +27,7 @@ se2 = SoftwareEngineer("Lisa", 28, "Senior", 7000)
 print(se2.name)
 print(SoftwareEngineer.alias)
 
+
 # Recap
 # Created a class (Blueprint)
 # Created an instance (Also known as an object)
